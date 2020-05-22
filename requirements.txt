@@ -174,7 +174,6 @@ pycparser==2.18
 pycryptodome==3.8.0
 pycurl==7.43.0
 pydot==1.2.4
-pydotplus==2.0.2
 pygpu==0.7.5
 PyHive==0.6.1
 PyJWT==1.5.3
