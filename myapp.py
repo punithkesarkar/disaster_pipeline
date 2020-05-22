@@ -1,1 +1,1 @@
-import run
+from myapp import app
