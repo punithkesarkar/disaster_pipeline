@@ -46,7 +46,6 @@ bresenham==0.2
 bz2file==0.98
 cachetools==3.1.0
 cassandra-driver==3.11.0
-certifi==2019.3.9
 cffi==1.11.2
 cgroupspy==0.1.6
 click==6.7
