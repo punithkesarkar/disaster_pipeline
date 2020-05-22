@@ -171,7 +171,6 @@ pyaml==18.11.0
 pyasn1==0.4.4
 pycosat==0.6.3
 pycparser==2.18
-pycryptodome==3.8.0
 pygpu==0.7.5
 PyHive==0.6.1
 PyJWT==1.5.3
